@@ -42,8 +42,7 @@ The CNN-based method provides improved accuracy and robustness over classical su
 - **Samples:** ~36k (narrow), ~81k (wide)
 - **Input Tensor Shape:** 16×16×3 (real, imaginary, phase channels)
 
-- ![Dataset generation](Results/Fig 3.png)
-
+![Dataset_generation](Results/Fig3.png)
 
 ### Model Architecture
 - **Input:** 16×16×3 covariance matrices
@@ -54,6 +53,7 @@ The CNN-based method provides improved accuracy and robustness over classical su
 - **Optimizer:** Adam
 - **Loss:** Binary Cross-Entropy
 
+![Model Arch.](Results/Fig5.png)
 ---
 
 ## Training Setup
