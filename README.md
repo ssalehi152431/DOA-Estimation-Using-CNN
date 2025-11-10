@@ -42,6 +42,9 @@ The CNN-based method provides improved accuracy and robustness over classical su
 - **Samples:** ~36k (narrow), ~81k (wide)
 - **Input Tensor Shape:** 16×16×3 (real, imaginary, phase channels)
 
+- ![Dataset generation](Results/Fig 3.png)
+
+
 ### Model Architecture
 - **Input:** 16×16×3 covariance matrices
 - **Conv Layers:** 4 layers with 256 filters (3×3 kernel)
