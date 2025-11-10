@@ -122,14 +122,14 @@ Run the final notebook cells to view RMSE vs. SNR plots and estimated DOA distri
 ## Citation
 If you use this repository, please cite:
 
-@inproceedings{salehin2025covariance,
+> @inproceedings{salehin2025covariance,
   title={Covariance Matrix-Based DOA Estimation Using CNN: Performance Across Narrow and Wide Grids},
   author={Salehin, Sultanus and Islam, Kamrul and Islam, Akib Jayed and Barua, Nirzar and Ananna, Kaniz F and Pavel, TA and Uddin, A and Noor-A-Alahee, SAM},
   booktitle={2025 Devices for Integrated Circuit (DevIC)},
   pages={313--318},
   year={2025},
   organization={IEEE}
-}
+> }
 
 
 > S. Salehin, K. Islam, A. J. Islam, N. Barua, K. F. Ananna, T. A. Pavel, A. Uddin, and S. A. M. Noor-A-Alahee,  
